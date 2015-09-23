@@ -1,3 +1,5 @@
+
+
 LIST OF MEMBERS FOR TEAM 22		
 
 YAP SHYAN LE
@@ -13,3 +15,29 @@ EDIT FOR DEMO 2
 LEE CHERN YUAN 
 
 SREE ABHIRAAMI
+
+
+
+Lee Chern Yuan
+ 
+Brief introduction
+ 
+Role in project: member
+ 
+Preferred branch of engineering: chemical
+
+Yap Shyan Le
+ 
+Brief introduction
+ 
+Role in project: team leader
+
+Preferred branch of engineering: ECSE
+
+Sree
+ 
+Brief introduction
+ 
+Role in project: assignment uploader
+ 
+Preferred branch of engineering: chemical
